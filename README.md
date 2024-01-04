@@ -21,13 +21,13 @@
 
 Cosmosic App is designed for the newbies of the science world to have a better understanding of how NASA works, in an interactive and entertaining way. Many features, which can provide some basic knowledge about Science and Geography, are added to the App. Some of them include Earth Observation Data and Fire Maps. These 2 features provide real-time data in sync and can be used to monitor fires, i.e. predict them and know how to avoid them. 3 more features include Mars, Satellite, and Missions which provide their information straight from NASA itself. Combining all the features would also sum up the message that is needed to be sent, which is “Save the Earth”.
 
-![EEG Band Discovery](/assets/img/design.png)
+![EEG Band Discovery](/assets/img/design.jpg)
 
 ### WeSave
 
 Develop a user-friendly app named "WeSave" with a focus on protecting women and children from a range of crimes such as rape, sexual assault, trafficking, and other related crimes. 
 
-![Bike Study](/assets/img/design2.png)
+![Bike Study](/assets/img/design2.jpg)
 
 
 
