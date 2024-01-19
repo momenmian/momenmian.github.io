@@ -7,10 +7,9 @@
 
 ## Work Experience
 **Tech Talents @ BRAC Bank PLC (_September 2023 - Present_)**
+- Automate various banking tasks using RPA and AI/ML to transform and enhance operational efficiency
 - Spearheaded system automation through Bash scripting, minimizing routine tasks and enhancing overall operational efficiency in a collaborative coding environment
 - Implemented a Nextcloud app for easier file management, enhancing team collaboration
-- Administered diverse server operations, optimizing non-Windows OS (RHEL) functionality and implementing virtualization technologies (VMware, KVM, HyperV, PowerVM) for enhanced performance within the Core System
-- Facilitated deployment strategies and upheld a reliable backup system, guaranteeing data security and seamless operations
   
 **Content Creator @ [Technevo](https://youtube.com/@technevo) (_April 2023 - Present_)**
 - Latest Technology, Artificial Intelligence, Tech Life
